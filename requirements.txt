@@ -16,7 +16,7 @@ Django==1.0.3
 django-cors-headers==2.4.0
 django-silk==3.0.1
 django-templated-mail==1.1.1
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 djoser==1.4.0
 dnspython==1.16.0
