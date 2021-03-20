@@ -28,7 +28,7 @@ gprof2dot==2016.10.13
 greenlet==0.4.15
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 json2html==1.2.1
 jsonpatch==1.10
