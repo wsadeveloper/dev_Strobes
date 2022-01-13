@@ -36,7 +36,7 @@ jsonpointer==2.0
 kombu==4.2.2.post1
 MarkupSafe==1.1.0
 monotonic==1.5
-Pillow==5.4.1
+Pillow==9.0.0
 psycopg2==2.7.7
 pycodestyle==2.5.0
 Pygments==2.3.1
